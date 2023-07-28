@@ -1,0 +1,2 @@
+# prompt-strore
+AI  prompt
